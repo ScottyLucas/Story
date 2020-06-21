@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is chapter 2. It is going to be pretty awesome. i can garentee that right now. This is the master branch.
+=======
+This is chapter 2. It is going to be pretty awesome. i can garentee that right now. This is the alien plot branch.
+>>>>>>> alien-plot

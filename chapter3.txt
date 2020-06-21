@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is already the third chapter. How did I get this far already? This is the master branch.
+=======
+This is already the third chapter. How did I get this far already? This is the alien-plot branch.
+>>>>>>> alien-plot
